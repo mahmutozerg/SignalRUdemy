@@ -15,3 +15,4 @@ C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository
 C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\obj\Debug\net8.0\SignalRRepository.pdb
 C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\obj\Debug\net8.0\SignalRRepository.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\obj\Debug\net8.0\ref\SignalRRepository.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\obj\Debug\net8.0\SignalRRepository.sourcelink.json

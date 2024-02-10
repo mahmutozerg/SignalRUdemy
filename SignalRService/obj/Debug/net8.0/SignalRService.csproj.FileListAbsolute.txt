@@ -15,3 +15,4 @@ C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\ob
 C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\obj\Debug\net8.0\refint\SignalRService.dll
 C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\obj\Debug\net8.0\SignalRService.pdb
 C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\obj\Debug\net8.0\ref\SignalRService.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\obj\Debug\net8.0\SignalRService.sourcelink.json

@@ -5,10 +5,10 @@ using SignalRRepository.Repositories;
 
 namespace SignalRRepository.EntityFramework;
 
-public class EFTestimonialRepository:GenericRepository<Testimonial>,ITestimonialRepository
+public class FeatureRepository:GenericRepository<Feature>,IFeatureRepository
 {
     private readonly SignalRContext _context;
-    public EFTestimonialRepository(SignalRContext context) : base(context)
+    public FeatureRepository(SignalRContext context) : base(context)
     {
         _context = context;
     }

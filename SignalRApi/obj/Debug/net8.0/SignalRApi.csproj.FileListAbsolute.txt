@@ -140,3 +140,7 @@ C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRApi\obj\De
 C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRApi\obj\Debug\net8.0\SignalRApi.pdb
 C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRApi\obj\Debug\net8.0\SignalRApi.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRApi\obj\Debug\net8.0\ref\SignalRApi.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRApi\bin\Debug\net8.0\SignalR.Dto.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRApi\bin\Debug\net8.0\SignalR.Dto.pdb
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRApi\obj\Debug\net8.0\SignalRApi.sourcelink.json

@@ -27,7 +27,7 @@ public class GenericService<TEntity>:IGenericService<TEntity> where TEntity : cl
         await _repository.DeleteAsync(entity);
     }
 
-    public async Task<TEntity> GetByIdAsync(int id)
+    public async Task<TEntity?> GetByIdAsync(int id)
     {
         return await _repository.GetByIdAsync(id);
     }

@@ -5,10 +5,10 @@ using SignalRRepository.Repositories;
 
 namespace SignalRRepository.EntityFramework;
 
-public class EFDiscountRepository:GenericRepository<Discount>,IDiscountRepository
+public class ContactRepository:GenericRepository<Contact>,IContactRepository
 {
     private readonly SignalRContext _context;
-    public EFDiscountRepository(SignalRContext context) : base(context)
+    public ContactRepository(SignalRContext context) : base(context)
     {
         _context = context;
     }

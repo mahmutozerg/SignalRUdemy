@@ -5,10 +5,10 @@ using SignalRRepository.Repositories;
 
 namespace SignalRRepository.EntityFramework;
 
-public class EFSocialMediaRepository:GenericRepository<SocialMedia>,ISocialMediaRepository
+public class TestimonialRepository:GenericRepository<Testimonial>,ITestimonialRepository
 {
     private readonly SignalRContext _context;
-    public EFSocialMediaRepository(SignalRContext context) : base(context)
+    public TestimonialRepository(SignalRContext context) : base(context)
     {
         _context = context;
     }

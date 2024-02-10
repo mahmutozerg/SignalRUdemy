@@ -5,10 +5,10 @@ using SignalRRepository.Repositories;
 
 namespace SignalRRepository.EntityFramework;
 
-public class EFAboutRepository:GenericRepository<About>,IAboutRepository
+public class BookingRepository:GenericRepository<Booking>,IBookingRepository
 {
     private readonly SignalRContext _context;
-    public EFAboutRepository(SignalRContext context) : base(context)
+    public BookingRepository(SignalRContext context) : base(context)
     {
         _context = context;
     }

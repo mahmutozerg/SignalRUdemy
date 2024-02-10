@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalR.Dto\bin\Debug\net8.0\SignalR.Dto.deps.json
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalR.Dto\bin\Debug\net8.0\SignalR.Dto.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalR.Dto\bin\Debug\net8.0\SignalR.Dto.pdb
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalR.Dto\obj\Debug\net8.0\SignalR.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalR.Dto\obj\Debug\net8.0\SignalR.Dto.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalR.Dto\obj\Debug\net8.0\SignalR.Dto.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalR.Dto\obj\Debug\net8.0\SignalR.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalR.Dto\obj\Debug\net8.0\SignalR.Dto.sourcelink.json
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalR.Dto\obj\Debug\net8.0\SignalR.Dto.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalR.Dto\obj\Debug\net8.0\refint\SignalR.Dto.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalR.Dto\obj\Debug\net8.0\SignalR.Dto.pdb
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalR.Dto\obj\Debug\net8.0\ref\SignalR.Dto.dll
