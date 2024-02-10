@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\DEV\\SignalRLessons\\UdemysignalRProject\\SignalRDto\\SignalRDto.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\DEV\\SignalRLessons\\UdemysignalRProject\\SignalR.Dto\\SignalR.Dto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\DEV\\SignalRLessons\\UdemysignalRProject\\SignalRDto\\SignalRDto.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\DEV\\SignalRLessons\\UdemysignalRProject\\SignalR.Dto\\SignalR.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\DEV\\SignalRLessons\\UdemysignalRProject\\SignalRDto\\SignalRDto.csproj",
-        "projectName": "SignalRDto",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\DEV\\SignalRLessons\\UdemysignalRProject\\SignalRDto\\SignalRDto.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\DEV\\SignalRLessons\\UdemysignalRProject\\SignalR.Dto\\SignalR.Dto.csproj",
+        "projectName": "SignalR.Dto",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\DEV\\SignalRLessons\\UdemysignalRProject\\SignalR.Dto\\SignalR.Dto.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\DEV\\SignalRLessons\\UdemysignalRProject\\SignalRDto\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\DEV\\SignalRLessons\\UdemysignalRProject\\SignalR.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
