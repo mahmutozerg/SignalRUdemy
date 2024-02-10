@@ -1,6 +1,6 @@
 ﻿using SignalRApi.DAL.Entities;
 
-namespace SignalRRepository.Abstract;
+namespace SignalR.Core.Repositories;
 
 public interface IProductRepository:IGenericRepository<Product>
 {

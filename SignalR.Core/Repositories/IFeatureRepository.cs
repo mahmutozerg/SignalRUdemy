@@ -1,6 +1,6 @@
 ﻿using SignalR.Core.Entities;
 
-namespace SignalRRepository.Abstract;
+namespace SignalR.Core.Repositories;
 
 public interface IFeatureRepository : IGenericRepository<Feature>
 {

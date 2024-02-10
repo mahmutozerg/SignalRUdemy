@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SignalRRepository.Abstract;
+using SignalR.Core.Repositories;
 using SignalRRepository.Concrete;
 
 namespace SignalRRepository.Repositories;
