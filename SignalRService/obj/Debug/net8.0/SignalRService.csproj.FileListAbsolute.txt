@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\bin\Debug\net8.0\SignalRService.deps.json
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\bin\Debug\net8.0\SignalRService.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\bin\Debug\net8.0\SignalRService.pdb
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\bin\Debug\net8.0\SignalR.Core.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\bin\Debug\net8.0\SignalRRepository.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\bin\Debug\net8.0\SignalRRepository.pdb
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\bin\Debug\net8.0\SignalR.Core.pdb
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\obj\Debug\net8.0\SignalRService.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\obj\Debug\net8.0\SignalRService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\obj\Debug\net8.0\SignalRService.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\obj\Debug\net8.0\SignalRService.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\obj\Debug\net8.0\SignalRService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\obj\Debug\net8.0\SignalRService.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\obj\Debug\net8.0\SignalRService.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\obj\Debug\net8.0\refint\SignalRService.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\obj\Debug\net8.0\SignalRService.pdb
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRService\obj\Debug\net8.0\ref\SignalRService.dll

@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\bin\Debug\net8.0\SignalRRepository.deps.json
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\bin\Debug\net8.0\SignalRRepository.runtimeconfig.json
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\bin\Debug\net8.0\SignalRRepository.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\bin\Debug\net8.0\SignalRRepository.pdb
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\bin\Debug\net8.0\SignalR.Core.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\bin\Debug\net8.0\SignalR.Core.pdb
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\obj\Debug\net8.0\SignalRRepository.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\obj\Debug\net8.0\SignalRRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\obj\Debug\net8.0\SignalRRepository.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\obj\Debug\net8.0\SignalRRepository.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\obj\Debug\net8.0\SignalRRepository.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\obj\Debug\net8.0\SignalRRepository.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\obj\Debug\net8.0\SignalRRepository.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\obj\Debug\net8.0\refint\SignalRRepository.dll
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\obj\Debug\net8.0\SignalRRepository.pdb
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\obj\Debug\net8.0\SignalRRepository.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\DEV\SignalRLessons\UdemysignalRProject\SignalRRepository\obj\Debug\net8.0\ref\SignalRRepository.dll

@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRApi", "SignalRApi\SignalRApi.csproj", "{0102084B-9944-421A-B638-F1060138DB5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRWebUI", "SignalRWebUI\SignalRWebUI.csproj", "{DE9F80C0-9572-4710-8B23-4758538AF95E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.Core", "SignalR.Core\SignalR.Core.csproj", "{03B5FB0E-2048-48E1-9DCF-E9D2A6AE636E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRRepository", "SignalRRepository\SignalRRepository.csproj", "{A9E9F6A2-EF45-4622-80D1-10C6A091C4D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDto", "SignalRDto\SignalRDto.csproj", "{F65FE32B-D247-4C3C-88A0-7DCC2B057357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRService", "SignalRService\SignalRService.csproj", "{AD6ACD6F-5432-45AC-84FB-3BF7AEAC16E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{C40343D1-6325-444C-A5E5-869B513BC24C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0102084B-9944-421A-B638-F1060138DB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0102084B-9944-421A-B638-F1060138DB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0102084B-9944-421A-B638-F1060138DB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0102084B-9944-421A-B638-F1060138DB5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE9F80C0-9572-4710-8B23-4758538AF95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9F80C0-9572-4710-8B23-4758538AF95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9F80C0-9572-4710-8B23-4758538AF95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9F80C0-9572-4710-8B23-4758538AF95E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03B5FB0E-2048-48E1-9DCF-E9D2A6AE636E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B5FB0E-2048-48E1-9DCF-E9D2A6AE636E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B5FB0E-2048-48E1-9DCF-E9D2A6AE636E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B5FB0E-2048-48E1-9DCF-E9D2A6AE636E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E9F6A2-EF45-4622-80D1-10C6A091C4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E9F6A2-EF45-4622-80D1-10C6A091C4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E9F6A2-EF45-4622-80D1-10C6A091C4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E9F6A2-EF45-4622-80D1-10C6A091C4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F65FE32B-D247-4C3C-88A0-7DCC2B057357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65FE32B-D247-4C3C-88A0-7DCC2B057357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65FE32B-D247-4C3C-88A0-7DCC2B057357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65FE32B-D247-4C3C-88A0-7DCC2B057357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6ACD6F-5432-45AC-84FB-3BF7AEAC16E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6ACD6F-5432-45AC-84FB-3BF7AEAC16E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6ACD6F-5432-45AC-84FB-3BF7AEAC16E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6ACD6F-5432-45AC-84FB-3BF7AEAC16E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09497C8B-DBE2-4F72-A06D-EF6F6232D039}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{03B5FB0E-2048-48E1-9DCF-E9D2A6AE636E} = {C40343D1-6325-444C-A5E5-869B513BC24C}
+		{0102084B-9944-421A-B638-F1060138DB5B} = {C40343D1-6325-444C-A5E5-869B513BC24C}
+		{F65FE32B-D247-4C3C-88A0-7DCC2B057357} = {C40343D1-6325-444C-A5E5-869B513BC24C}
+		{A9E9F6A2-EF45-4622-80D1-10C6A091C4D9} = {C40343D1-6325-444C-A5E5-869B513BC24C}
+		{AD6ACD6F-5432-45AC-84FB-3BF7AEAC16E5} = {C40343D1-6325-444C-A5E5-869B513BC24C}
+	EndGlobalSection
+EndGlobal
